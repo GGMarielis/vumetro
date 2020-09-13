@@ -1,6 +1,6 @@
 # Vumetro
 
-##Description
+## Description
 Allows you to turn led lights on and off to the rhythm of the input audio
 
 ## How torun the simulation
